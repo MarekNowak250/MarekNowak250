@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Marek 👋
 
+I am a coding enthusiast 🖥️, specializing mainly in C# (maybe even too much). Sometimes when I come to my senses, I have fun with Python (who doesn't like AI, right?) and Go.
+You can also find me at: [Gitlab](https://gitlab.com/Phoenix510) and [LinkedIn](https://www.linkedin.com/in/mnowak250).
 <!--
 **MarekNowak250/MarekNowak250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
